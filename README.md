@@ -1,2 +1,3 @@
 # tic-tac-toe
-This tic tac toe game includes a gui and was built using JavaFX.
+A complete tic tac toe game that includes a gui and was built using JavaFX.
+
